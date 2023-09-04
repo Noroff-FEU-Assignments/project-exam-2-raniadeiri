@@ -5,3 +5,10 @@ Design: https://www.figma.com/file/kDX0Ng3yYzysAztTYliulM/Untitled?type=design&n
 
 To Run Project
 1- New Terminal -> npm install -> npm start
+
+
+
+e-mail   rania123456@stud.noroff.no
+password  rania12345
+
+or you can register you owen 
